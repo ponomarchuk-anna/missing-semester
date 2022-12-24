@@ -1,0 +1,4 @@
+aiohttp~=3.8.3
+aiogram~=2.23.1
+beautifulsoup4~=4.11.1
+zodiac_sign~=0.2.5
